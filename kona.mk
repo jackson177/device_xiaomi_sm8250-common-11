@@ -343,6 +343,10 @@ PRODUCT_PACKAGES += \
     libvndfwk_detect_jni.qti \
     libvndfwk_detect_jni.qti.vendor
 
+# Performance
+PRODUCT_PACKAGES += \
+    powerctl
+
 # RIL
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-full \
