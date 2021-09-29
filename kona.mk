@@ -370,6 +370,7 @@ PRODUCT_PACKAGES += \
     init.nfc.rc \
     init.qcom.power.rc \
     init.qcom.rc \
+    init.performance_level.rc \
     init.recovery.qcom.rc \
     init.target.rc \
     fstab.qcom \
